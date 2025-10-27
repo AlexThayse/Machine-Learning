@@ -1,18 +1,19 @@
-# MACHINE LEARNING – Classification supervisée appliquée sur un jeu de données de type Chinese MNIST
+# MACHINE LEARNING – Supervised Classification Applied to a Chinese MNIST Dataset
 
-Ce projet consiste en une étude complète de **classification supervisée** appliquée à un jeu de données d’images. L’objectif est d’identifier le meilleur algorithme de classification en testant différents modèles et en appliquant des techniques d’optimisation pour améliorer la précision tout en minimisant le surapprentissage.
-
----
-
-## 📂 Contenu du projet
-
-- **Compréhension des données** : dimension et type des données, distributions des classes, chargement des données  
-- **Évaluation des classifieurs** : K plus proches voisins, Random Forest, SVM, Bayes Naïf, Perceptron, Multilayer Perceptron, Régression logistique, comparaison des résultats  
-- **Amélioration des modèles** : réduction de la dimensionnalité, augmentation des données, ensembles (Voting, Stacking), transfer learning, suppression des classes mal représentées  
-- **Conclusion** : résumé des résultats et perspectives d’amélioration  
+This project presents a comprehensive study of **supervised classification** applied to an image dataset.  
+The objective is to identify the best classification algorithm by testing different models and applying optimization techniques to improve accuracy while minimizing overfitting.
 
 ---
 
-## 👤 Auteurs
+## 📂 Project Contents
 
-Manon Rustin et Alex Thayse
+- **Data Understanding**: data dimensions and types, class distributions, data loading  
+- **Classifier Evaluation**: K-Nearest Neighbors, Random Forest, SVM, Naive Bayes, Perceptron, Multilayer Perceptron, Logistic Regression, and result comparison  
+- **Model Improvement**: dimensionality reduction, data augmentation, ensemble methods (Voting, Stacking), transfer learning, and removal of underrepresented classes  
+- **Conclusion**: summary of results and improvement perspectives  
+
+---
+
+## 👤 Authors
+
+**Manon Rustin** and **Alex Thayse**
